@@ -6,4 +6,4 @@ Just a demo
 
 - From git bash
 
-* From git desctop
+* From git bash
